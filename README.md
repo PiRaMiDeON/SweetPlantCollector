@@ -22,9 +22,9 @@
 ## Скриншоты игры
 
 <p align="center">
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot1.jpg' width = 220>
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot2.jpg' width = 220>
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot3.jpg' width = 220>
+      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot1.png' width = 220>
+      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot2.png' width = 220>
+      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot3.png' width = 220>
 </p>
 
 ## Используемые плагины и ассеты
