@@ -1,7 +1,7 @@
 <p align="center">
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/1.jpg' width = 220>
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/2.jpg' width = 220>
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/3.jpg' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/1.jpg' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/2.jpg' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/3.jpg' width = 220>
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 ## Скриншоты игры
 
 <p align="center">
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot1.png' width = 220>
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot2.png' width = 220>
-      <img src='https://github.com/YourUsername/SweetPlantCollector/blob/main/Imgs/screenshot3.png' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/screenshot1.png' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/screenshot2.png' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/screenshot3.png' width = 220>
 </p>
 
 ## Используемые плагины и ассеты
