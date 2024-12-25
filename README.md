@@ -22,9 +22,9 @@
 ## Скриншоты игры
 
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/Screenshot1.png' width = 220>
-      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/Screenshot2.png' width = 220>
-      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/Screenshot3.png' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/Screenshot1.jpg' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/Screenshot2.jpg' width = 220>
+      <img src='https://github.com/PiRaMiDeON/SweetPlantCollector/blob/main/Imgs/Screenshot3.jpg' width = 220>
 </p>
 
 ## Используемые плагины и ассеты
