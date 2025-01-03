@@ -35,4 +35,4 @@
 
 ## Разработчик
 
-- [PiRaMiDeON](https://github.com/YourUsername)
+- [PiRaMiDeON](https://github.com/PiRaMiDeON)
